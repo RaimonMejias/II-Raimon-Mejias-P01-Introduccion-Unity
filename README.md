@@ -39,18 +39,18 @@ Siguiendo las indicaciones de la práctica se han añadido una serie de tags par
 - Arboles: Indica todos los objetos que sean árboles.
 
 El resto de objetos de la escena utilizan las etiquetas que vienen por defecto en Unity como: Player, MainCamera, etc.
-![playerTag](resources/player_tag.jpg)
-![terrainTag](resources/terrain_tag.jpg)
-![treeTag](resources/tree_tag.jpg)
+![playerTag](resources/player_tag.png)
+![terrainTag](resources/terrain_tag.png)
+![treeTag](resources/tree_tag.png)
 
 ### Creación de un terreno 
 
 De manera opcional se ha creado un objeto Terrain del cual se anidan todo el resto de objetos que formen parte del terreno, como los bloques, las rampas, etc.
 
-![terrain](resources/terrain.jpg)
+![terrain](resources/terrain.png)
 
 ### Objeto que no forme parte del Starter Assets
 
 Se ha seleccionado el paquete Free Trees que trae 4 variedades de modelos de árbol. 
 
-![freeTrees](resources/free_trees.jpg)
+![freeTrees](resources/free_trees.png)
