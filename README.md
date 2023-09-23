@@ -1,8 +1,11 @@
 # II-Raimon-Mejias-P01-Introduccion-Unity
 Repositorio que contiene los scripts realizados y un README con la descripción del trabajo de la práctica
 
-
 ## Descripción del trabajo realizado
+
+### GIF demostrativo de la práctica
+
+![p01GiF](resources/p01.gif)
 
 ### Script para escribir por consola
 
