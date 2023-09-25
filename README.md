@@ -9,6 +9,12 @@ Repositorio que contiene los scripts realizados y un README con la descripción 
 
 ### Script para escribir por consola
 
+Resultados obtenidos en la consola: 
+
+![console1](resources/console1.png)
+
+![console2](resources/console2.png)
+
 Siguiendo las instrucciones de la clase práctica realizada anteriormente, se propone realizar un pequeño script introductorio que escriba por consola el objeto al cual se le ha añadido dicho componente, de manera adicional se ha añadido la cantidad de frames en los que se ejecuta el script. 
 
 ```C#
